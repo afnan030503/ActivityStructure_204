@@ -11,7 +11,7 @@ struct Mahasiswa {
 
 int main() 
 {
-	Mahasiswa mhs1, mhs2;
+	Mahasiswa mhs1, mhs2; 
 
 	mhs1.nim = "20220140204";
 	mhs1.nama = "Afnan";
