@@ -26,7 +26,7 @@ int main()
 	cout << "Masukkan alamat: ";
 	cin >> mhs2.alamat;
 	cout << "Masukkan umur: ";
-	cin >> mhs2.umur;
+	cin >> mhs2.umur; 
 
 	cout << "\nnim : " << mhs1.nim;
 	cout << "\nnama : " << mhs1.nama;
