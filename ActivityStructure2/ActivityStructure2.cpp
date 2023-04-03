@@ -2,4 +2,8 @@
 
 using namespace std;
 
-struct AlamatDetail 
+struct AlamatDetail
+{
+	string desa;
+	string kota;
+};
