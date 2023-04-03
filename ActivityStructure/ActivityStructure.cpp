@@ -37,4 +37,4 @@ int main()
 	cout << "\nnama : " << mhs2.nama;
 	cout << "\nalamat : " << mhs2.alamat;
 	cout << "\numur : " << mhs2.umur;
-}
+} 
