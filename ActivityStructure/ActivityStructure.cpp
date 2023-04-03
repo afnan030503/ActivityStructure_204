@@ -31,7 +31,7 @@ int main()
 	cout << "\nnim : " << mhs1.nim;
 	cout << "\nnama : " << mhs1.nama;
 	cout << "\nalamat : " << mhs1.alamat;
-	cout << "\numur : " << mhs1.umur;
+	cout << "\numur : " << mhs1.umur; 
 
 	cout << "\nnim : " << mhs2.nim;
 	cout << "\nnama : " << mhs2.nama;
